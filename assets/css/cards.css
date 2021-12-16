@@ -130,7 +130,7 @@
   }
   @media all and (max-width: 572px){
     .container-again{
-      margin-top: 105px;
+     /* margin-top: 105px;*/
       height: 145px;
       font-size: 28px;
       margin-bottom: ;

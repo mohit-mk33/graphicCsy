@@ -623,8 +623,11 @@
     .features-section{
         padding: 79px 0 0px 0; 
     }
-    .factorstitle{
+    /*.factorstitle{
         margin-top: 40px;
+    }*/
+    .factors-list{
+        line-height: 1.9;
     }
     .features-container{
         display: flex;
@@ -1693,11 +1696,13 @@
         .frontd{
             padding: 5px 35px 5px 35px;
             margin-bottom: 5px;
-            height: 473px;
+            height: 426px;
         }
 
         .uiuxd{
             padding: 5px 35px 5px 35px;
+            height: 400px;
+            margin-top: -20px;
         }
         .websd{
           padding: 5px 35px 5px 35px;
@@ -1832,10 +1837,13 @@
             margin-top: 100px;
         }
         .third-container{
-            height: 379px !important;
+            height: 350px !important;
         }
         .features-content-section {
             padding: 0 20px ;
+        }
+        .curriculum-card-2{
+            margin-top: -90px;
         }
 
         
