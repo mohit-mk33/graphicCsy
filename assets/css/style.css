@@ -459,7 +459,7 @@
             margin-top: -179px;
         }
         .web1header{
-            margin-bottom: -60px;
+            margin-bottom: -135px;
         }
         .web2header{
             margin-top: -60px;
@@ -628,6 +628,13 @@
     }*/
     .factors-list{
         line-height: 1.9;
+       
+        text-align: left;
+    }
+    .factors-list ul{
+         list-style-type: circle;
+        list-style-position: outside;
+
     }
     .features-container{
         display: flex;
@@ -1647,10 +1654,15 @@
         .about-points{
             color: #fff;
             text-align: ;
-            text-align: center;
+            text-align: left;
             letter-spacing: 1px;
             padding-bottom: 37px;
            font-size: 18px;
+           list-style: circle;
+        }
+        .about-points ul{
+             list-style-type: circle !important;
+             list-style-position: outside;
         }
         .designationcontent{
             background: linear-gradient(
